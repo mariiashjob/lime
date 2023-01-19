@@ -1,6 +1,6 @@
 //
 //  String+Extension.swift
-//  Lime
+//  Limex
 //
 //  Created by m.shirokova on 19.01.2023.
 //

@@ -1,6 +1,6 @@
 //
 //  TVChannelFilterTypeModel.swift
-//  Lime
+//  Limex
 //
 //  Created by m.shirokova on 17.01.2023.
 //

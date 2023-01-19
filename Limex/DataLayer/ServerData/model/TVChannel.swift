@@ -1,6 +1,6 @@
 //
 //  TVChannel.swift
-//  Lime
+//  Limex
 //
 //  Created by m.shirokova on 18.01.2023.
 //
