@@ -1,4 +1,4 @@
-# lime
+# Limex tech task
 https://www.figma.com/file/8kKAxwg1lg5knX30oc6Pjr/Плеер?node-id=0%3A1
 
 API: http://limehd.online/playlist/channels.json
