@@ -5,8 +5,9 @@
 //  Created by m.shirokova on 17.01.2023.
 //
 
+// Review:
 class TVChannelsViewModel {
-    static let shared = TVChannelsViewModel()
+    static let shared = TVChannelsViewModel() /// Нет смысла в сингл тоне, так как используется только один раз
     var allChannels: [TVChannel] = []
     func filteredChannels() -> [TVChannel] {
         if TVChannelFilterStateModel.isTVChannelFavouriteFilterEnabled() {

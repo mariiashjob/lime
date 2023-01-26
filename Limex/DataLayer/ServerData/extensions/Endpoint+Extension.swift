@@ -7,6 +7,8 @@
 
 import UIKit
 
+// Review:
+///Плохое решение! Подумать, как можно сделать лучше
 extension Endpoint {
     var url: URL? {
         var components = URLComponents()
